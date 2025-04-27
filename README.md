@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left"><br>- 📚 I'm currently learning WebSockets<br>- ⚡ In my free time I do BJJ</p>
+<p align="left"><br>- 📚 I'm currently learning WebSockets and Electron JS<br>- ⚡ In my free time I do BJJ</p>
 
 ###
 
