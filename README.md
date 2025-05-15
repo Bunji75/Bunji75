@@ -62,7 +62,7 @@
 ###
 
 <div align="center">
-  (https://github-readme-stats.vercel.app/api?username=Bunji75)](https://github.com/anuraghazra/github-readme-stats)
+  <img src"https://github-readme-stats.vercel.app/api?username=Bunji75" />
 </div>
 
 ###
