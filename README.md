@@ -62,7 +62,7 @@
 ###
 
 <div align="center">
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Bunji75&include_all_commits=true&count_private=true&layout=compact' height='220' alt='Most used languages' />
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Bunji75&hide=css&include_all_commits=true&count_private=true&layout=compact' height='220' alt='Most used languages' />
 </div>
 
 ###
