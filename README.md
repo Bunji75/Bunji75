@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left"><br>- 📚 I'm currently learning Python Flask<br>- ⚡ In my free time I do BJJ<br>- Building my persoanl website too</p>
+<p align="left"><br>- 📚 I'm currently learning Python Flask<br>- ⚡ In my free time I do BJJ<br>- Building my personal website too</p>
 
 ###
 
